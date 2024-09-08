@@ -9,5 +9,5 @@ Do you:
 - [Explore the dark cave](dark-cave.md)
 - [Head towards the shining light](shining-light.md)
 - [Investigate the narrow path](narrow-path.md)
-
+- [Climb the towering mountain](towering-mountain.md)
 - [Check out the abandoned cabin](abandoned-cabin.md)
