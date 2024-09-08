@@ -6,3 +6,5 @@ What do you do next?
 Do you:
 - [Explore the dark cave](dark-cave.md)
 - [Head towards the shining light](shining-light.md)
+
+
