@@ -10,3 +10,4 @@ Do you:
 - [Head towards the shining light](shining-light.md)
 - [Investigate the narrow path](narrow-path.md)
 
+- [Check out the abandoned cabin](abandoned-cabin.md)
